@@ -6,10 +6,9 @@
 <p align="center">
 Bro-bot-AI is here to help you bro
 
-### Project Screenshots
 ![Screenshot 2024-12-22 224613](https://github.com/user-attachments/assets/d18aa2d3-d1c2-42d4-9cb9-0a3c50eed5d9)
  
-![Screenshot 2024-12-22 225427](https://github.com/user-attachments/assets/f2cc9a7c-c2a3-4453-aa5d-f64421cc6002)
+
 
 
 </p>
@@ -40,8 +39,9 @@ This project is create by locally setting up the Ollama LLM.
 - Streamed responses for a more interactive experience.
 - User-friendly message handling and typing animations.
 
-
-    ![Screenshot 2024-12-22 225019](https://github.com/user-attachments/assets/adec022e-720b-49b9-9899-8d4754ab8460)
+### Project ScreenShots
+  ![Screenshot 2024-12-22 225019](https://github.com/user-attachments/assets/adec022e-720b-49b9-9899-8d4754ab8460)
+  ![Screenshot 2024-12-22 225427](https://github.com/user-attachments/assets/f2cc9a7c-c2a3-4453-aa5d-f64421cc6002)
 
 ### Built With
 
