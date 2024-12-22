@@ -1,6 +1,6 @@
 
 <br/>
-![Screenshot 2024-12-22 225433](https://github.com/user-attachments/assets/3b41edd8-34bd-44cc-a958-fed45c13ae85)
+![Screenshot 2024-12-22 225433](https://github.com/user-attachments/assets/cee28f93-ba85-4570-b95c-a5cbc7af42f2)
 
 <div align="center">
 <h3 align="center">Bro-Bot-AI</h3>
