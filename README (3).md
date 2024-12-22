@@ -41,6 +41,7 @@ This project is create by locally setting up the Ollama LLM.
 
 ### Project ScreenShots
   ![Screenshot 2024-12-22 225019](https://github.com/user-attachments/assets/adec022e-720b-49b9-9899-8d4754ab8460)
+  -------
   ![Screenshot 2024-12-22 225427](https://github.com/user-attachments/assets/f2cc9a7c-c2a3-4453-aa5d-f64421cc6002)
 
 ### Built With
