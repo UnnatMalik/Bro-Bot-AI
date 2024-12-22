@@ -2,13 +2,13 @@
 <div align="center">
 <h3 align="center">Bro-Bot-AI</h3>
 <p align="center">
-<div width="80" height="80">
-<img src="https://www.canva.com/design/DAGaCeAK21Q/MMsyBfsGf7-9QX_L6_gXuw/edit?utm_content=DAGaCeAK21Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
-</div>
+ 
+ ![image](https://github.com/user-attachments/assets/45f0b15b-ef00-401d-b3d8-a52e1dd8945a)
+
 Bro-bot-AI is here to help you bro
 
 ![Screenshot 2024-12-22 224613](https://github.com/user-attachments/assets/d18aa2d3-d1c2-42d4-9cb9-0a3c50eed5d9)
- 
+
 
 </p>
 </div>
