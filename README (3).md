@@ -1,8 +1,7 @@
 
 <br/>
-![Screenshot 2024-12-22 225433](https://github.com/user-attachments/assets/cee28f93-ba85-4570-b95c-a5cbc7af42f2)
-
 <div align="center">
+ ![Bro ai](https://github.com/user-attachments/assets/cf55f036-8e52-499f-802e-63684e78d4c1)
 <h3 align="center">Bro-Bot-AI</h3>
 <p align="center">
 Bro-bot-AI is here to help you bro
