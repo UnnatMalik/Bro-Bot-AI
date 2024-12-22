@@ -3,8 +3,7 @@
 <h3 align="center">Bro-Bot-AI</h3>
 <p align="center">
 <div width="80" height="80">
-![Bro ai](https://github.com/user-attachments/assets/c85c0489-fe63-44bf-9483-66f7aae568ba)
-
+<img src="https://www.canva.com/design/DAGaCeAK21Q/MMsyBfsGf7-9QX_L6_gXuw/edit?utm_content=DAGaCeAK21Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
 </div>
 Bro-bot-AI is here to help you bro
 
