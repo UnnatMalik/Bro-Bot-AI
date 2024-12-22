@@ -41,10 +41,10 @@ This project is create by locally setting up the Ollama LLM.
 - User-friendly message handling and typing animations.
 
 ### Project ScreenShots 
-
+<p>
     ![Screenshot 2024-12-22 225019](https://github.com/user-attachments/assets/c2b4938b-4404-4ca9-8ac0-659d1caa658a)
     ![Screenshot 2024-12-22 225427](https://github.com/user-attachments/assets/9409e472-a4e1-4230-aa3d-49ad1cbe773d)
-
+</p>
 ### Built With
 
 This Project is built with LangChain Ollama For integrating advanced language models (Llama3) and handling conversational workflows.
