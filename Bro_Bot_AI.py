@@ -52,7 +52,7 @@ def main(page: ft.Page):
         if user_message:
             # Add user message immediately
             messages.controls.append(
-                ft.Row([ft.Text(f"User: {user_message}", color="blue",enable_interactive_selection=True)],alignment="end",expand=0)
+                ft.Row([ft.Text(f"You: {user_message}", color="blue",enable_interactive_selection=True)],alignment="end",expand=0)
             )
             user_input.value = ""  # Clear the input field
             page.update()  # Update the page to show the user message
@@ -67,7 +67,7 @@ def main(page: ft.Page):
             page.update()
             result = chain.invoke({"context": context, "question": user_message})
             Thread(target=bot_typing_animation, args=(result,)).start()
-            context += f"\nUser:{user_message}\nBro:{result}"
+            context += f"\nYou:{user_message}\nBro:{result}"
 
             page.update()  # Update the page to show the bot's response
     
