@@ -2,7 +2,7 @@
 <div align="center">
 <h3 align="center">Bro-Bot-AI</h3>
 <p align="center">
- <div width="80" height="80">
+ <div width="20" height="20">
   
  ![image](https://github.com/user-attachments/assets/45f0b15b-ef00-401d-b3d8-a52e1dd8945a)
  
