@@ -1,13 +1,14 @@
 
 <br/>
 <div align="center">
-
+![Screenshot 2024-12-22 225433](https://github.com/user-attachments/assets/e4279c8f-b6c7-4c32-808b-2a72b6988049)
 <h3 align="center">Bro-Bot-AI</h3>
 <p align="center">
 Bro-bot-AI is here to help you bro
 
 
-  
+ ![Screenshot 2024-12-22 224613](https://github.com/user-attachments/assets/d18aa2d3-d1c2-42d4-9cb9-0a3c50eed5d9)
+ 
 
 
 </p>
@@ -37,6 +38,12 @@ This project is create by locally setting up the Ollama LLM.
 
 - Streamed responses for a more interactive experience.
 - User-friendly message handling and typing animations.
+
+### Project ScreenShots 
+
+    ![Screenshot 2024-12-22 225019](https://github.com/user-attachments/assets/c2b4938b-4404-4ca9-8ac0-659d1caa658a)
+    ![Screenshot 2024-12-22 225427](https://github.com/user-attachments/assets/9409e472-a4e1-4230-aa3d-49ad1cbe773d)
+
 ### Built With
 
 This Project is built with LangChain Ollama For integrating advanced language models (Llama3) and handling conversational workflows.
