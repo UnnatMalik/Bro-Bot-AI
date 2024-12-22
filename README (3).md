@@ -1,15 +1,15 @@
 
 <br/>
 <div align="center">
- <img src="![Screenshot 2024-12-22 225433](https://github.com/user-attachments/assets/cd03944d-6570-4d3e-8cc8-f2020c003ea0)
-" alt="Logo" width="80" height="80"> 
+  ![Screenshot 2024-12-22 225433](https://github.com/user-attachments/assets/5c738ad1-e1f2-40c3-9709-f284f7a28dd7)
 <h3 align="center">Bro-Bot-AI</h3>
 <p align="center">
 Bro-bot-AI is here to help you bro
 
-
- ![Screenshot 2024-12-22 224613](https://github.com/user-attachments/assets/d18aa2d3-d1c2-42d4-9cb9-0a3c50eed5d9)
+### Project Screenshots
+![Screenshot 2024-12-22 224613](https://github.com/user-attachments/assets/d18aa2d3-d1c2-42d4-9cb9-0a3c50eed5d9)
  
+![Screenshot 2024-12-22 225427](https://github.com/user-attachments/assets/f2cc9a7c-c2a3-4453-aa5d-f64421cc6002)
 
 
 </p>
