@@ -1,6 +1,5 @@
 <br/>
 <div align="center">
-<h3 align="center">Bro-Bot-AI</h3>
 <p align="center">
  <div width="20" height="20">
   
