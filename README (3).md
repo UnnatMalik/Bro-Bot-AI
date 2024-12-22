@@ -1,7 +1,7 @@
 
 <br/>
 <div align="center">
- ![Bro ai](https://github.com/user-attachments/assets/cf55f036-8e52-499f-802e-63684e78d4c1)
+ ![Screenshot](https://github.com/user-attachments/assets/cf55f036-8e52-499f-802e-63684e78d4c1)
 <h3 align="center">Bro-Bot-AI</h3>
 <p align="center">
 Bro-bot-AI is here to help you bro
