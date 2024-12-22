@@ -1,7 +1,8 @@
 
 <br/>
 <div align="center">
-![Screenshot 2024-12-22 225433](https://github.com/user-attachments/assets/e4279c8f-b6c7-4c32-808b-2a72b6988049)
+ <img src="![Screenshot 2024-12-22 225433](https://github.com/user-attachments/assets/cd03944d-6570-4d3e-8cc8-f2020c003ea0)
+" alt="Logo" width="80" height="80"> 
 <h3 align="center">Bro-Bot-AI</h3>
 <p align="center">
 Bro-bot-AI is here to help you bro
