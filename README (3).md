@@ -2,15 +2,14 @@
 <div align="center">
 <h3 align="center">Bro-Bot-AI</h3>
 <p align="center">
+<div width="80" height="80">
+![Bro ai](https://github.com/user-attachments/assets/c85c0489-fe63-44bf-9483-66f7aae568ba)
 
-![Bro ai](https://github.com/user-attachments/assets/b06f84fa-2e90-49cf-a587-5a91ac4e6703)
- 
+</div>
 Bro-bot-AI is here to help you bro
 
 ![Screenshot 2024-12-22 224613](https://github.com/user-attachments/assets/d18aa2d3-d1c2-42d4-9cb9-0a3c50eed5d9)
  
-
-
 
 </p>
 </div>
