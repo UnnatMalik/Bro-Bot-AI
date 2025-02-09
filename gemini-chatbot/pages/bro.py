@@ -6,7 +6,7 @@ import os
 import re
 
 # Configure Gemini API
-genai.configure(api_key="Your API KEY ")
+genai.configure(api_key="AIzaSyCDRV4NCysRofqKJIQD8PdFZecDSIXxmBE")
 model = genai.GenerativeModel("gemini-1.5-flash", tools='code_execution', system_instruction="You are a kind Programmer assistant.")
 
 # Ensure the 'files' directory exists
