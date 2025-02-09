@@ -1,6 +1,7 @@
 # Bro-Bot AI
 
 
+
 A powerful AI chatbot built using **Gemini 1.5 Flash** and **Streamlit**, capable of analyzing images, documents, and maintaining chat history.
 
 ## 🚀 Features
@@ -16,6 +17,10 @@ A powerful AI chatbot built using **Gemini 1.5 Flash** and **Streamlit**, capabl
 - **Deployment**: Streamlit Cloud (Yet to be done)
 
 ## 📸 Project Screenshots
+
+![Screenshot 2025-02-09 205941](https://github.com/user-attachments/assets/16dda7ee-e381-4989-a1a2-bc268c64b1b1)
+
+![Screenshot 2025-02-09 210053](https://github.com/user-attachments/assets/edb3a88f-6be0-4f61-ba31-3745edc11460)
 
 ## 📌 Installation
 
